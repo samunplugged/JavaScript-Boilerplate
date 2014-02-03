@@ -1,4 +1,4 @@
-# [JavaScript Boilerplate](https://github.com/mdarif/JavaScript-Boilerplate)
+# [JavaScript Boilerplate](https://github.com/sapient-studio-india/JavaScript-Boilerplate)
 
 JavaScript Boilerplate is the collection of best practices using a design pattern (Global Abatement) with the use of defined namespaces that would help you to protect our code. It is developed in a modular way with some commonly used utility methods provided that you would find useful for common operations. It is equipped with the configuration file in the form of an object literal that can be used to store global objects, config ids, URLs or textual strings. This framework has been designed to work as a ready to use template that you can build further in your projects as needed as it outlines the framework neatly and exhibits an approach to extend it.
 
@@ -57,7 +57,7 @@ JavaScript Boilerplate is the collection of best practices using a design patter
 
 ## Quick start
 
-Clone the git repo - `git clone git://github.com/mdarif/JavaScript-Boilerplate.git` - or [download it](https://github.com/mdarif/JavaScript-Boilerplate/zipball/master)
+Clone the git repo - `git clone git://github.com/sapient-studio-india/JavaScript-Boilerplate.git` - or [download it](https://github.com/msapient-studio-india/JavaScript-Boilerplate/zipball/master)
 
 You can also get the JavaScript Boilerplate through npm if you have already installed node.
 
@@ -100,7 +100,7 @@ Anyone and everyone is welcome to [contribute](#).
 
 ## Project information
 
-* Source: https://github.com/mdarif/JavaScript-Boilerplate
+* Source: https://github.com/sapient-studio-india/JavaScript-Boilerplate
 
 
 ## License
@@ -108,6 +108,3 @@ Anyone and everyone is welcome to [contribute](#).
 * MIT/GPL license
 
 
-## Author
-
-* Mohammed Arif [@arif_iq](http://twitter.com/arif_iq), [github](https://github.com/mdarif)
